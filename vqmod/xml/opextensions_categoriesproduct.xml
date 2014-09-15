@@ -1,0 +1,65 @@
+﻿<modification>
+	<id>Opextensions - Display Categories on product page</id>
+	<version>1.5.x</version>
+	<vqmver>1.1.0</vqmver>
+	<author>opextensions</author>
+	<email>duongkhoangiam@gmail.com</email>
+	<!-- add sql query product model -->
+	<file name="catalog/model/catalog/product.php">
+		<operation>
+			<search position="before" index="1"><![CDATA[public function getTotalProducts($data = array()) {]]></search>
+			<add><![CDATA[public function getCategoriesByProductId($product_id) {
+				$query = $this->db->query("SELECT * FROM " . DB_PREFIX . "product_to_category WHERE product_id = '" . (int)$product_id . "'");
+				
+				return $query->rows;
+			}]]></add>
+		</operation>
+	</file>
+	<!-- end add sql query product model -->
+	<!-- modify product controller -->
+	<file name="catalog/controller/product/product.php">
+		<operation>
+			<search position="before"><![CDATA[$this->document->setTitle($product_info['name']);]]></search>
+			<add><![CDATA[$this->data['categories'] = array();
+			$categories = $this->model_catalog_product->getCategoriesByProductId($this->request->get['product_id']);
+			foreach($categories as $categorie){
+				$category_info = $this->model_catalog_category->getCategory($categorie['category_id']);
+				$this->data['categories'][] = array(
+					'name' => $category_info['name'],
+					'link' => $this->url->link('product/category','&path='.$category_info['category_id'])
+				);
+			}]]></add>
+		</operation>
+	</file>
+	<!-- end modify product controller -->
+	
+	<!-- modify product template -->
+	<file name="catalog/view/theme/*/template/product/product.tpl">
+		<operation>
+			<search position="after"><![CDATA[<div class="description">]]></search>
+			<add><![CDATA[
+				<?php if ($categories) { ?>
+				<?php $i = 1; $count = count($categories);?>
+				<span><?php echo ($i < $count) ? $this->language->get('text_categories') : $this->language->get('text_category'); ?></span> 
+				<?php foreach($categories as $category){ ?>
+					<a href="<?php echo $category['link']; ?>"><?php echo $category['name']; ?></a>
+					<?php echo ($i < $count) ? '&nbsp;,&nbsp;' : '';?>
+					<?php $i++;?>
+				<?php } ?>
+				<br />
+		        <?php } ?>
+			]]></add>
+		</operation>
+	</file>
+	<!-- end modify product template -->
+	
+	<!-- modify language -->
+	<file name="catalog/language/*/product/product.php">
+		<operation>
+			<search position="after"><![CDATA[<?php]]></search>
+			<add><![CDATA[$_['text_categories'] = 'Категории : ';
+						  $_['text_category']   = 'Категория : ';]]></add>
+		</operation>
+	</file>
+	<!-- end modify language -->
+</modification>

@@ -1,0 +1,1768 @@
+---------- Date: 2014-09-15 08:18:25 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:18:43 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:18:49 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:00 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=69
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;path=69&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:21 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:27 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/login
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:35 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:40 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:46 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=setting/store&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:19:48 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=tool/error_log&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:17 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=tool/error_log&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:22 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=sale/order&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:25 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/category&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:27 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:30 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=sale/order&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:32 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:36 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=module/pavcustom&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:20:52 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:21:11 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:21:18 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=module/pavproductcarousel&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:22:27 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:22:38 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=module/pavcontentslider&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:05 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=sale/order&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:08 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/shipping&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:11 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=shipping/flat&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:14 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:40 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=information/information&amp;information_id=0
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:43 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=67
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:46 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:23:54 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:27:20 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:27:23 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:30:51 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:30:54 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:30:58 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:31:01 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:36:01 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:36:07 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:36:08 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:36:44 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:41:24 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:41:52 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:42:02 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=b6de88658d4666ab83838865317edd0a
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:42:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=b6de88658d4666ab83838865317edd0a&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:44:51 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:44:53 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:45:54 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:47:02 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:49:17 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:49:20 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:53:52 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:54:18 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:55:18 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:56:56 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:57:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 08:57:06 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:01:39 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:02:34 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:03:25 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:04:47 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:04:52 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:04:55 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:41:25 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:41:27 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:41:29 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/shipping&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:41:31 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=shipping/flat&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:41:36 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/shipping&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:43:55 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:43:58 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:02 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=localisation/weight_class&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:11 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=module/custom_product_tab&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:13 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:17 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:21 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:35 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:37 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=143e37d9f6e1c60153bd6fecf45d22f4&amp;product_id=42
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:44:54 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:45:02 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:45:12 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:45:30 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/shipping&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:45:36 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=shipping/flat&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:45:50 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=localisation/geo_zone&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:46:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:46:05 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=143e37d9f6e1c60153bd6fecf45d22f4&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:46:48 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=localisation/weight_class&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:46:50 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/shipping&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 09:46:55 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=shipping/flat&amp;token=143e37d9f6e1c60153bd6fecf45d22f4
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:10:59 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:11:02 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:11:04 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=fca2ed03aade7565a814043e53cb5e60
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:11:06 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=extension/module&amp;token=fca2ed03aade7565a814043e53cb5e60
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:11:13 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=setting/store&amp;token=fca2ed03aade7565a814043e53cb5e60
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:11:15 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /admin/index.php?route=setting/setting&amp;token=fca2ed03aade7565a814043e53cb5e60
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:16 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:19 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:23 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:36 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:39 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=63
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:13:49 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=61
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:14:00 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 11:16:01 ~ IP : 188.123.248.15 ----------
+REQUEST URI : /?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:53:17 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:53:22 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:54:07 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:54:14 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:54:16 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 12:54:19 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:03:41 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:03:52 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:05:19 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:05:24 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:05:40 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:05:44 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:05:59 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:06:02 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:06:31 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=63
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:06:34 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/category&amp;path=59
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:06:40 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:06:43 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:00 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:03 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:13 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:16 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:18 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:21 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:07:57 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/special
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:08:07 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=0d3ff37d6959efba3810ed35cd5e8e8d
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:08:11 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=51
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 13:08:40 ~ IP : 193.232.173.151 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 15:06:07 ~ IP : 141.8.191.2 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 16:58:06 ~ IP : 213.85.27.254 ----------
+REQUEST URI : /admin/
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 16:58:48 ~ IP : 213.85.27.254 ----------
+REQUEST URI : /admin/index.php?route=common/home&amp;token=c7d42f1cc38c1d8ef9664ec22dca0adc
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 16:59:30 ~ IP : 213.85.27.254 ----------
+REQUEST URI : /admin/index.php?route=catalog/product&amp;token=c7d42f1cc38c1d8ef9664ec22dca0adc
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-15 16:59:36 ~ IP : 213.85.27.254 ----------
+REQUEST URI : /admin/index.php?route=catalog/product/update&amp;token=c7d42f1cc38c1d8ef9664ec22dca0adc&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): <li id="help"><a class="top"><?php echo $text_help; ?></a>
+
+----------------------------------------------------------------------
+
+

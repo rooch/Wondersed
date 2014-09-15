@@ -1,0 +1,207 @@
+<modification>
+
+    <id>Add a new tab to product page with the same functionality as description tab</id>
+    <version>1.2.2</version>
+    <vqmver>2.3.2</vqmver>
+    <author>bull5-i</author>
+
+    <file name="admin/controller/catalog/product.php">
+        <operation>
+            <search position="after"><![CDATA[
+            $this->data['entry_description'] = $this->language->get('entry_description');
+            ]]></search>
+            <add><![CDATA[
+        $this->data['entry_specs'] = $this->language->get('entry_specs');
+            ]]></add>
+        </operation>
+        <operation>
+            <search position="after"><![CDATA[
+            $this->data['tab_design'] = $this->language->get('tab_design');
+            ]]></search>
+            <add><![CDATA[
+        $this->data['cpt_show'] = $this->config->get('custom_product_tab_status');
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="admin/language/english/catalog/product.php">
+        <operation>
+            <search position="after"><![CDATA[
+            $_['entry_description']
+            ]]></search>
+            <add><![CDATA[
+$_['entry_specs']            = 'Specs:';
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="admin/model/catalog/product.php">
+        <operation>
+            <search position="before"><![CDATA[
+            foreach ($data['product_description'] as $language_id => $value) {
+            ]]></search>
+            <add><![CDATA[
+        if ($this->config->get('custom_product_tab_status') && $this->config->get('cpt_use_default_language_value')) {
+            $default_lang_specs = $data['product_description'][$this->config->get('config_language_id')]['specs'];
+        }
+            ]]></add>
+        </operation>
+        <operation> <!-- Partial match for OC 1.5.4.x -->
+            <search position="after"><![CDATA[
+            $this->db->query("INSERT INTO " . DB_PREFIX . "product_description SET product_id = '" . (int)$product_id . "', language_id = '" . (int)$language_id . "', name = '" . $this->db->escape($value['name']) . "', meta_keyword = '" . $this->db->escape($value['meta_keyword']) . "', meta_description = '" . $this->db->escape($value['meta_description']) . "', description = '" . $this->db->escape($value['description']) . "'
+            ]]></search>
+            <add><![CDATA[
+            if ($this->config->get('custom_product_tab_status')) {
+                if ($this->config->get('cpt_use_default_language_value') && trim($value['specs']) == '') {
+                    $value['specs'] = $default_lang_specs;
+                }
+                $this->db->query("UPDATE " . DB_PREFIX . "product_description SET specs = '" . $this->db->escape($value['specs']) . "' WHERE product_id = '" . (int)$product_id . "' AND language_id = '" . (int)$language_id . "'");
+            }
+            ]]></add>
+        </operation>
+        <operation>
+            <search position="before"><![CDATA[
+            'meta_keyword'     => $result['meta_keyword'],
+            ]]></search>
+            <add><![CDATA[
+                'specs'            => (isset($result['specs'])) ? $result['specs'] : "",
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="admin/model/localisation/language.php">
+        <operation><!-- Partial match -->
+            <search position="after"><![CDATA[
+            $this->db->query("INSERT INTO " . DB_PREFIX . "product_description SET product_id = '" . (int)$product['product_id'] . "', language_id = '" . (int)$language_id . "', name = '" . $this->db->escape($product['name']) . "'
+            ]]></search>
+            <add><![CDATA[
+            if ($this->config->get('cpt_installed')) {
+                $this->db->query("UPDATE " . DB_PREFIX . "product_description SET specs = '" . $this->db->escape($product['specs']) . "' WHERE product_id = '" . (int)$product['product_id'] . "' AND language_id = '" . (int)$language_id . "'");
+            }
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="admin/view/template/catalog/product_form.tpl">
+        <operation>
+            <search position="after" offset="2"><![CDATA[
+            <td><?php echo $entry_description; ?></td>
+            ]]></search>
+            <add><![CDATA[
+              <?php if ($cpt_show) { ?>
+              <tr>
+                <td><?php echo "WonderFact"; ?></td>
+                <td><textarea name="product_description[<?php echo $language['language_id']; ?>][specs]" id="specs<?php echo $language['language_id']; ?>"><?php echo isset($product_description[$language['language_id']]) ? $product_description[$language['language_id']]['specs'] : ''; ?></textarea></td>
+              </tr>
+              <?php } ?>
+            ]]></add>
+        </operation>
+        <operation>
+            <search position="before"><![CDATA[
+            <?php echo $footer; ?>
+            ]]></search>
+            <add><![CDATA[
+<script type="text/javascript"><!--
+<?php if ($cpt_show) { ?>
+<?php foreach ($languages as $language) { ?>
+CKEDITOR.replace('specs<?php echo $language['language_id']; ?>', {
+    filebrowserBrowseUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>',
+    filebrowserImageBrowseUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>',
+    filebrowserFlashBrowseUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>',
+    filebrowserUploadUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>',
+    filebrowserImageUploadUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>',
+    filebrowserFlashUploadUrl: 'index.php?route=common/filemanager&token=<?php echo $token; ?>'
+});
+<?php } ?>
+<?php } ?>
+//--></script>
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="catalog/controller/product/product.php">
+        <operation>
+            <search position="after"><![CDATA[
+            $this->data['tab_description'] = $this->language->get('tab_description');
+            ]]></search>
+            <add><![CDATA[
+            $this->data['tab_specs'] = $this->language->get('tab_specs');
+            ]]></add>
+        </operation>
+        <operation>
+            <search position="after"><![CDATA[
+            $this->data['description'] = html_entity_decode($product_info['description'], ENT_QUOTES, 'UTF-8');
+            ]]></search>
+            <add><![CDATA[
+            $this->data['cpt_show'] = $this->config->get('custom_product_tab_status') && ($this->config->get('cpt_always_show') || !empty($product_info['specs']));
+            if ($this->config->get('custom_product_tab_status')) {
+                $this->data['specs'] = html_entity_decode($product_info['specs'], ENT_QUOTES, 'UTF-8');
+            }
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="catalog/model/catalog/product.php">
+        <operation><!-- Inline replace-->
+            <search position="replace"><![CDATA[
+            DISTINCT *, pd.name
+            ]]></search>
+            <add><![CDATA[DISTINCT *, pd.specs as specs, pd.name]]></add>
+        </operation>
+        <operation>
+            <search position="after"><![CDATA[
+            'product_id'       => $query->row['product_id'],
+            ]]></search>
+            <add><![CDATA[
+                'specs'            => isset($query->row['specs']) ? $query->row['specs'] : '',
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="catalog/language/english/product/product.php">
+        <operation>
+            <search position="after"><![CDATA[
+            $_['tab_description']
+            ]]></search>
+            <add><![CDATA[
+$_['tab_specs']         = 'Specs';
+            ]]></add>
+        </operation>
+    </file>
+
+    <file name="catalog/view/theme/pav_floral/template/product/product.tpl">
+        <operation>
+            <search position="after"><![CDATA[
+            <div id="tabs" class="htabs clearfix"><a href="#tab-description"><?php echo $tab_description; ?></a>
+            ]]></search>
+            <add><![CDATA[
+    <?php if ($cpt_show) { ?>
+    <a href="#tab-specs"><?php echo $tab_specs; ?></a>
+    <?php } ?>
+            ]]></add>
+        </operation>
+        <operation>
+            <search position="after"><![CDATA[
+            <div id="tab-description" class="tab-content"><?php echo $description; ?></div>
+            ]]></search>
+            <add><![CDATA[
+  <?php if ($cpt_show) { ?>
+  <div id="tab-specs" class="tab-content"><?php echo $specs; ?></div>
+  <?php } ?>
+            ]]></add>
+        </operation>
+    </file>
+
+</modification>
+
+<!--
+<modification>  - This is the highest level of the file and there can only be one
+<id>            - This is the name of the mod. Format: Free form text. (Informational)
+<version>       - This is the version of the mod. Format: Number and Decimal (1.0.0) (Informational)
+<author>        - This is the author of the mod. Format: Free form text (Informational)
+<file>          - This is the name of the file to modify. Requires attribute "name" as relative filename (catalog/controller/product/product.php). There can be multiple
+<operation>     - This is the wrapper of the actual operation occuring. There can be multiple operations to the same file.
+<search>        - This is the first required step of the operation. Uses an optional attribute "position" set to before|after|replace. replace is default. One per operation. Use CDATA tags to wrap code.
+<add>           - This is the second required step of the operation. Uses an optional attribute "trim" set to true|false to trim away whitespace and linebreaks. false is default. One per operation. Location of added data depends on the position of the <search> command. Use CDATA tags to wrap code.
+<![CDATA[  ]]>  - These are called CDATA tags and they are used by xml to specify that the data between should not be evaluated.
+-->

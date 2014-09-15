@@ -1,0 +1,39 @@
+---------- Date: 2014-09-11 14:37:40 ~ IP : 213.180.206.198 ----------
+REQUEST URI : /
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-11 20:07:11 ~ IP : 195.91.232.65 ----------
+REQUEST URI : /index.php?route=common/home
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2014-09-11 20:07:14 ~ IP : 195.91.232.65 ----------
+REQUEST URI : /index.php?route=product/product&amp;product_id=52
+MOD DETAILS:
+   modFile   : /home/hellmixgui/domains/jinn.ru/public_html/vqmod/xml/vqmm_pav_blogs_menu_shortcut.xml
+   id        : VQMod Pavo Blogs Shortcut
+   version   : 1.0.0
+   vqmver    : 2.3.0
+   author    : pavothemes.com
+SEARCH NOT FOUND (ABORTING MOD): $_['text_home']           = 'Home';
+
+----------------------------------------------------------------------
+
+
